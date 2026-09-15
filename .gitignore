@@ -1,0 +1,5 @@
+.arduino-cli/
+.home/
+DEVELOPMENT_NOTES.md
+firmware/**/build/
+sketchbook/libraries/
